@@ -1,14 +1,10 @@
 <div align="center">
 
-# DeepCode v3
-
-[![Discord](https://img.shields.io/discord/0?label=Discord&logo=discord&logoColor=white&color=5865F2)](https://discord.gg/cgVa2rqWKv)
+# LowCode
 
 A Claude-Code-style terminal coding agent, written in Python. Streams
 responses, runs file/shell tools behind a permission layer, multi-stage
 reasoning, an UltraCode agent swarm, and a desktop GUI.
-
-**[Join the Discord](https://discord.gg/cgVa2rqWKv)** — support, updates, bug reports.
 
 </div>
 
@@ -24,12 +20,10 @@ below before asking for one.
 
 ---
 
-## Install
+## Forked from
 
-Easiest: grab the latest build from
-[Releases](https://github.com/Schnickenpick/DeepCodev3/releases).
+[DeepCode Original](https://github.com/Schnickenpick/DeepCodev3/releases).
 
-Or from source, from this directory (`deepcodev3/`):
 
 ```sh
 pip install -e .
